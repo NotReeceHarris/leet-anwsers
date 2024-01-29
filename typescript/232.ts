@@ -1,3 +1,5 @@
+// https://leetcode.com/problems/implement-queue-using-stacks/
+
 class MyQueue {
     private stack1: number[];
     private stack2: number[];
